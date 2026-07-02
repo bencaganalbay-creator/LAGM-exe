@@ -26,3 +26,5 @@ See the [LICENSE](LICENSE) file for details.
 Official program name: **LAGM.exe — created and owned by BIOS_boi (aka bencaganalbay-creator).**  
 Any other distribution under the same name is not authorized.
 
+## Download Adress
+[Download LAGM.exe](https://github.com/bencaganalbay-creator/LAGM-exe/releases/download/release/LAGM.exe)
